@@ -1,5 +1,5 @@
 {
-    "name": "magentron/eloquent-model-generator",
+    "name": "jonyorker/eloquent-model-generator",
     "description": "Eloquent Model Generator (forked from krlove/eloquent-model-generator",
     "license": "MIT",
     "autoload": {
@@ -17,10 +17,10 @@
 	},
     "require": {
         "php": "^8.0",
-        "illuminate/database": "^9.0 || ^10.0",
-        "illuminate/support": "^9.0 || ^10.0",
-        "illuminate/config": "^9.0 || ^10.0",
-        "illuminate/console": "^9.0 || ^10.0",
+        "illuminate/database": "^9.0 || ^10.0 || ^11.0",
+        "illuminate/support": "^9.0 || ^10.0 || ^11.0"",
+        "illuminate/config": "^9.0 || ^10.0 || ^11.0"",
+        "illuminate/console": "^9.0 || ^10.0 || ^11.0"",
         "doctrine/dbal": "^3.0",
         "krlove/code-generator": "^1.0"
     },
